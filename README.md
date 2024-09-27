@@ -14,9 +14,9 @@ We have also compiled a specific list of applicable references/links that demons
 Coherence:
 - https://doi.org/10.1007/978-3-319-28549-8_3
 - https://bigwww.epfl.ch/demo/orientationj/
-- 
+  
 Logistic Regression Models:
 - https://www.mathworks.com/help/stats/mnrfit.html
-- 
+  
 K-fold cross validation:
 - https://www.mathworks.com/discovery/cross-validation.html
