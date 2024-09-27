@@ -8,3 +8,15 @@ This code reproduces shape analysis of fibroblast cells as done in our pre-print
 We have included sufficient comments within every .m file and functions so that our results may be reproduced and that the methodology may be extended to other use cases. 
 
 Please note that the magnitudes of PC axes 1 and 3 were flipped for visual effect in the pre-print. This does not change the meaning of the axes.  
+
+We have also compiled a specific list of applicable references/links that demonstrate the implementation of the aforementioned methods:
+
+Coherence:
+- https://doi.org/10.1007/978-3-319-28549-8_3
+- https://bigwww.epfl.ch/demo/orientationj/
+- 
+Logistic Regression Models:
+- https://www.mathworks.com/help/stats/mnrfit.html
+- 
+K-fold cross validation:
+- https://www.mathworks.com/discovery/cross-validation.html
